@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/MiraiMindz" display="span">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&theme=nord" />
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&exclude_repo=vim-colorschemes-collection&theme=nord" />
+<a align="center" href="https://github.com/MiraiMindz">
+  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&line_height=36&theme=nord" />
+  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&exclude_repo=vim-colorschemes-collection&langs_count=10&theme=nord" />
 </a>
