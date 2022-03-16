@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/MiraiMindz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&theme=nord" />
 </a>
 <a href="https://github.com/MiraiMindz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&exclude_repo=vim-colorschemes-collection&theme=nord" />
 </a>
