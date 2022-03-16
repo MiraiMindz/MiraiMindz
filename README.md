@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MiraiMindz/MiraiMindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/MiraiMindz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&theme=nord" />
+</a>
+<a href="https://github.com/MiraiMindz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&theme=nord" />
+</a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mirai)](https://github.com/MiraiMindz)
