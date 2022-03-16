@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a align="center" href="https://github.com/MiraiMindz">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&line_height=36&theme=nord" />
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&exclude_repo=vim-colorschemes-collection&langs_count=10&theme=nord" />
+  <img width="53.8%" align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&theme=nord" />
+  <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiMindz&layout=compact&exclude_repo=vim-colorschemes-collection&langs_count=10&theme=nord" />
 </a>
