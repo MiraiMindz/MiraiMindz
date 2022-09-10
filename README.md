@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Portando projetos offlines/perdidos para o GitHub ainda
+## AFASTADO por questões escolares
 
-### [ ] Documentar Repositórios
+quando eu tiver mais tempo livre eu retorno aos projetos do GitHub.
+
+### TODOs
+- [ ] Reescrever/portar projetos antigos e perdidos para o GitHub.
+- [ ] Documentar repositórios.
 
 
 <a align="center" href="https://github.com/MiraiMindz">
