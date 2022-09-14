@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 quando eu tiver mais tempo livre eu retorno aos projetos do GitHub.
 
+## Participando da NLW 09 (NextLevelWeek 09)
+
 ### TODOs
 - [ ] Reescrever/portar projetos antigos e perdidos para o GitHub.
 - [ ] Documentar repositórios.
