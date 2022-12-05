@@ -13,13 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## AFASTADO por questões escolares
-
-quando eu tiver mais tempo livre eu retorno aos projetos do GitHub.
-
-### TODOs
+## TODOs
 - [ ] Reescrever/portar projetos antigos e perdidos para o GitHub.
 - [ ] Documentar repositórios.
+- [ ] Meu Site
 
 
 <a align="center" href="https://github.com/MiraiMindz">
