@@ -1,31 +1,24 @@
-<!--
-**MiraiMindz/MiraiMindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sou Bruno Barreto, mas as pessoas me conhecem como Mirai.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Devido as mudanças de rotina por conta da faculdade e o fim do ensino médio, eu acabei ficando fora de desenvolvimento por um tempo, mas pretendo voltar, aqui está uma "roadmap" das coisas que pretendo fazer até o final do ano.
-
-## TODOs
+Por conta da faculdade e questões pessoas meu desenvolvimento nos meus projetos pessoais estão lentos, mas aqui vai uma lista de planejamentos:
 
 Lista das tarefas que eu tenho que exercer neste perfil:
 - [ ] Reescrever/portar projetos antigos e perdidos para o GitHub.
 - [ ] Documentar repositórios.
-- [ ] Organizar Repositórios/Limpar o perfil.
+- [x] Organizar Repositórios/Limpar o perfil.
 
 Projetos pendentes ou em andamento:
 - [ ] Meu Site
 - [ ] Arch Installer
 - [ ] Python Lessons
+- [ ] Frontless Bot
+
+Ideias ou mudanças necessárias:
+- [ ] Atualizar, "recriar" e consertar os [.dotfiles](https://github.com/MiraiMindz/.dotfiles)
+- [ ] Alterar o código fonte do meu site de ReactTS para Angular
+
+Projetos da Faculdade:
+- [ ] Next Language
 
 <a align="center" href="https://github.com/MiraiMindz">
   <img width="53.8%" align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=false&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
